@@ -9,7 +9,7 @@ The project consists of the following key files:
 - `gameSd.c` - Implements the Sudoku solver (using boolean masking) and generator (using linked lists).
 - `gameSd.h` - Contains function declarations for the solver and generator.
 - `stack.c` - Implements the timer using a stack.
-- `stackSd.h` - Contains function declarations for the timing mechanism.
+- `stack.h` - Contains function declarations for the timing mechanism.
 
 ## Features
 - **Sudoku Generator**: Creates a randomized Sudoku puzzle using linked lists.
