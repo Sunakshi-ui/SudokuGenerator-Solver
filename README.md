@@ -30,7 +30,8 @@ gcc mainSd.c gameSd.c stack.c -o sudokuGame
 - The program will solve the puzzle and display the solution.
 
 ## Dependencies
-- Standard C library (stdio.h, stdlib.h, stdbool.h, time.h, unistd.h).
+- Standard C library (stdio.h, stdlib.h, stdbool.h, time.h).
+- Additional POSIX Library (unistd.h).
 - Ensure you have a C compiler (such as GCC).
 
 ## Future Enhancements
