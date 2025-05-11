@@ -39,5 +39,5 @@ gcc mainSd.c gameSd.c stack.c -o sudokuGame
 - Enhanced graphical interface (CLI or GUI).
 - Additional difficulty levels.
 
-License
+License:
 This project is open-source. Feel free to modify and distribute it.
